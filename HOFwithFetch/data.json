@@ -1,0 +1,102 @@
+[
+    {
+        "name":"Bill",
+        "company" : "Facebook",
+        "salary":"500000",
+        "department":"IT",
+        "country":"USA"
+    },
+    {
+        "name":"Mark",
+        "company" : "Facebook",
+        "salary":"900000",
+        "department":"IT",
+        "country":"Georgia"
+    },
+    {
+        "name":"Robert",
+        "company" : "Facebook",
+        "salary":"450000",
+        "department":"IT",
+        "country":"Canada"
+    },
+    {
+        "name":"Fill",
+        "company" : "Facebook",
+        "salary":"400000",
+        "department":"IT",
+        "country":"Mexico"
+    },
+    {
+        "name":"Amanda",
+        "company" : "Google",
+        "salary":"600000",
+        "department":"IT",
+        "country":"UK"
+    },
+    {
+        "name":"Luis",
+        "company" : "Google",
+        "salary":"400000",
+        "department":"Sales",
+        "country":"USA"
+    },
+    {
+        "name":"Maredine",
+        "company" : "Amazon",
+        "salary":"100000",
+        "department":"Sales",
+        "country":"Jamaica"
+    },
+    {
+        "name":"Suhana",
+        "company" : "Amazon",
+        "salary":"580000",
+        "department":"IT",
+        "country":"India"
+    },
+    {
+        "name":"Sohan",
+        "company" : "Amazon",
+        "salary":"700000",
+        "department":"IT",
+        "country":"Bangladesh"
+    },
+    {
+        "name":"Downey",
+        "company" : "Amazon",
+        "salary":"300000",
+        "department":"Sales",
+        "country":"Italy"
+    },
+    {
+        "name":"Mili",
+        "company" : "Amazon",
+        "salary":"300000",
+        "department":"Sales",
+        "country":"Georgia"
+    },
+    {
+        "name":"Shron",
+        "company" : "Amazon",
+        "salary":"600000",
+        "department":"IT",
+        "country":"Georgia"
+    },
+    {
+        "name":"Shundor",
+        "company" : "Google",
+        "salary":"1000000",
+        "department":"HR",
+        "country":"India"
+    },
+    {
+        "name":"Martin",
+        "company" : "Google",
+        "salary":"800000",
+        "department":"Sales",
+        "country":"Uk"
+    }
+
+
+]
